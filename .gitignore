@@ -1,0 +1,16 @@
+# Virtual environment folder
+env/
+
+# Python cache and bytecode files
+__pycache__/
+*.pyc
+
+# Environment variables (if you use them)
+.env
+
+# IDE-specific folders (optional)
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
