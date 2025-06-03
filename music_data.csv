@@ -1,0 +1,160 @@
+id,title,artist,mood
+1,Blinding Lights,The Weeknd,energetic
+2,Someone Like You,Adele,sad
+3,Shape of You,Ed Sheeran,happy
+4,Lose Yourself,Eminem,energetic
+5,Sunflower,"Post Malone, Swae Lee",happy
+6,Levitating,Dua Lipa,energetic
+7,Chasing Cars,Snow Patrol,calm
+8,Wake Me Up,Avicii,energetic
+9,Rolling in the Deep,Adele,sad
+10,New Rules,Dua Lipa,energetic
+11,The Scientist,Coldplay,sad
+12,Blurred Lines,"Robin Thicke, T.I.",energetic
+13,Thinking Out Loud,Ed Sheeran,tender
+14,Hips Don't Lie,"Shakira, Wyclef Jean",energetic
+15,The Lazy Song,Bruno Mars,calm
+16,Stay,"Rihanna, Mikky Ekko",sad
+17,Dynamite,BTS,energetic
+18,Somebody That I Used to Know,"Gotye, Kimbra",sad
+19,Perfect,Ed Sheeran,tender
+20,All of Me,John Legend,tender
+21,Call Me Maybe,Carly Rae Jepsen,happy
+22,Wrecking Ball,Miley Cyrus,sad
+23,Happy,Pharrell Williams,happy
+24,Don't Start Now,Dua Lipa,energetic
+25,Old Town Road,Lil Nas X,energetic
+26,Rain On Me,"Lady Gaga, Ariana Grande",energetic
+27,Take Me To Church,Hozier,sad
+28,Someone You Loved,Lewis Capaldi,sad
+29,Break My Heart,Dua Lipa,sad
+30,Truth Hurts,Lizzo,energetic
+31,Good 4 U,Olivia Rodrigo,energetic
+32,Drivers License,Olivia Rodrigo,sad
+33,Kiss Me More,"Doja Cat, SZA",happy
+34,Levitating,"Dua Lipa, DaBaby",energetic
+35,Circles,Post Malone,calm
+36,Take Care,"Drake, Rihanna",calm
+37,High Hopes,Panic! At The Disco,energetic
+38,Bad Guy,Billie Eilish,energetic
+39,The Middle,"Zedd, Maren Morris, Grey",happy
+40,No Tears Left to Cry,Ariana Grande,calm
+41,Starboy,"The Weeknd, Daft Punk",energetic
+42,Sweet but Psycho,Ava Max,energetic
+43,Can't Stop the Feeling!,Justin Timberlake,happy
+44,Sucker,Jonas Brothers,happy
+45,Youngblood,5 Seconds of Summer,energetic
+46,Shallow,"Lady Gaga, Bradley Cooper",tender
+47,I Will Always Love You,Whitney Houston,tender
+48,Closer,"The Chainsmokers, Halsey",energetic
+49,My Universe,"BTS, Coldplay",energetic
+50,God's Plan,Drake,calm
+51,Without Me,Eminem,energetic
+52,Dance Monkey,Tones and I,energetic
+53,I'm Yours,Jason Mraz,calm
+54,No Scrubs,TLC,energetic
+55,Savage Love,"Jawsh 685, Jason Derulo",energetic
+56,Watermelon Sugar,Harry Styles,happy
+57,Rude,MAGIC!,happy
+58,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",energetic
+59,Peaches,"Justin Bieber, Daniel Caesar, Giveon",calm
+60,It's My Life,Bon Jovi,energetic
+61,Dance Floor Anthem,LMFAO,energetic
+62,The Box,Roddy Ricch,energetic
+63,What's My Name?,"Rihanna, Drake",energetic
+64,Rockstar,Post Malone,energetic
+65,Memory,Maroon 5,calm
+66,Take Me Home, Country Roads,John Denver,calm
+67,Waiting for Love,Avicii,energetic
+68,Mad World,Gary Jules,sad
+69,Fight Song,Rachel Platten,energetic
+70,Let Her Go,Passenger,sad
+71,Counting Stars,OneRepublic,energetic
+72,I Gotta Feeling,The Black Eyed Peas,energetic
+73,Lonely,"Justin Bieber, benny blanco",sad
+74,Bleeding Love,Leona Lewis,sad
+75,Feel It Still,Portugal. The Man,energetic
+76,Don't Speak,No Doubt,sad
+77,Take a Bow,Rihanna,sad
+78,Titanium,"David Guetta, Sia",energetic
+79,No One,Alicia Keys,calm
+80,If I Ain't Got You,Alicia Keys,calm
+81,Fallin',Alicia Keys,calm
+82,Back to Black,Amy Winehouse,sad
+83,Chandelier,Sia,energetic
+84,Walking On Sunshine,Katrina & The Waves,happy
+85,Call Out My Name,The Weeknd,sad
+86,Blow,"Ed Sheeran, Bruno Mars, Chris Stapleton",energetic
+87,Stay With Me,Sam Smith,tender
+88,Take My Breath,The Weeknd,energetic
+89,Hot Girl Bummer,Blackbear,energetic
+90,In My Feelings,Drake,energetic
+91,Shivers,Ed Sheeran,happy
+92,Señorita,"Shawn Mendes, Camila Cabello",romantic
+93,God Is a Woman,Ariana Grande,power
+94,Castle on the Hill,Ed Sheeran,nostalgic
+95,No Guidance,"Chris Brown, Drake",energetic
+96,Levitating (Remix),"Dua Lipa, DaBaby",energetic
+97,Savage Remix,"Megan Thee Stallion, Beyoncé",energetic
+98,If I Can't Have You,Shawn Mendes,happy
+99,Heartbreak Anniversary,Givēon,sad
+100,Stressed Out,Twenty One Pilots,tense
+101,Take a Chance on Me,ABBA,happy
+102,Heathens,Twenty One Pilots,fear
+103,Waiting for a Star to Fall,Boy Meets Girl,romantic
+104,Wild Thoughts,"Rihanna, DJ Khaled, Bryson Tiller",erotic
+105,Drive,The Cars,calm
+106,Bad Blood,"Taylor Swift, Kendrick Lamar",tense
+107,The Less I Know the Better,Tame Impala,calm
+108,On Top of the World,Imagine Dragons,happy
+109,Lover,Taylor Swift,romantic
+110,Good Old Fashioned Lover Boy,Queen,romantic
+111,My Shot,Hamilton Cast,power
+112,Faded,Alan Walker,energetic
+113,How You Like That,BLACKPINK,energetic
+114,Sunflower,"Post Malone, Swae Lee",happy
+115,Good Life,OneRepublic,happy
+116,Hold On,Justin Bieber,tender
+117,Hard to Forget,Sam Hunt,energetic
+118,Go Your Own Way,Fleetwood Mac,romantic
+119,Shut Up and Dance,WALK THE MOON,energetic
+120,Mirrors,Justin Timberlake,romantic
+121,Still Into You,Paramore,romantic
+122,Take Me Home,Jess Glynne,happy
+123,Chained to the Rhythm,"Katy Perry, Skip Marley",energetic
+124,Adore You,Harry Styles,tender
+125,Rolling Stone,The Weeknd,energetic
+126,Sugar,Maroon 5,happy
+127,The Climb,Miley Cyrus,empowering
+128,Midnight City,M83,energetic
+129,Paper Planes,M.I.A.,energetic
+130,Hotline Bling,Drake,romantic
+131,What About Us,P!nk,energetic
+132,Bitter Sweet Symphony,The Verve,sad
+133,Under Control,The Strokes,calm
+134,Dark Horse,"Katy Perry, Juicy J",power
+135,Try Again,Aaliyah,tender
+136,Rockstar,"Post Malone, 21 Savage",energetic
+137,Firework,Katy Perry,energetic
+138,We Found Love,"Rihanna, Calvin Harris",energetic
+139,Electric Feel,MGMT,energetic
+140,You Belong With Me,Taylor Swift,happy
+141,Shout Out to My Ex,Little Mix,empowering
+142,Bang Bang,"Jessie J, Ariana Grande, Nicki Minaj",energetic
+143,Love Yourself,Justin Bieber,tender
+144,Sicko Mode,Travis Scott,energetic
+145,Side to Side,"Ariana Grande, Nicki Minaj",energetic
+146,Sorry,Justin Bieber,tender
+147,Love Me Like You Do,Ellie Goulding,romantic
+148,Hard to Love,Lee Brice,sad
+149,Ex's & Oh's,Elle King,energetic
+150,Boyfriend,Ariana Grande,romantic
+151,Let Me Love You,Mario,tender
+152,Party Rock Anthem,LMFAO,energetic
+153,Best Song Ever,One Direction,happy
+154,Roar,Katy Perry,empowering
+155,Need You Now,Lady A,sad
+156,If I Could Fly,One Direction,tender
+157,Stay,Lisa Loeb,tender
+158,The Power of Love,Celine Dion,romantic
+159,We Can't Stop,Miley Cyrus,energetic
