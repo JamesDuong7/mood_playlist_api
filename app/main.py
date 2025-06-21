@@ -1,8 +1,9 @@
-from fastapi import FastAPI, Depends # type: ignore (Pylance unresolved import)
+from fastapi import FastAPI, Query # type: ignore (Pylance unresolved import)
 from fastapi.responses import JSONResponse  # type: ignore (Pylance unresolved import)
 from database.database import database
 from database.models import songs
 from app.core.mood_detection import detect_mood_from_text
+from sqlalchemy import func # type: ignore (Pylance unresolved import)
 
 # Import JSONResponse class to explicitly return JSON responses
 app: FastAPI = FastAPI()    # type: ignore (FastAPI type unknown to Pylance)
@@ -19,12 +20,12 @@ async def shutdown():
 
 # API endpoint clearly defined to get a mood-based playlist
 @app.get("/playlist/", response_class=JSONResponse)  # type: ignore (decorator type unresolved by Pylance)
-async def get_playlist(user_input: str):
+async def get_playlist(user_input: str, limit: int = Query(10, ge=1, le=30)):
     # Detect user's mood from input text
     mood = detect_mood_from_text(user_input)
 
     # Query database for songs matching the detected mood
-    query = songs.select().where(songs.c.mood == mood).limit(10)
+    query = songs.select().where(songs.c.mood == mood).order_by(func.random()).limit(limit)
     results = await database.fetch_all(query)
 
     # Prepare and return playlist response clearly
