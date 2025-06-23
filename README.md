@@ -1,8 +1,5 @@
 # Mood-Based Playlist API
 
-````markdown
-# Mood-Based Playlist API
-
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95%2B-green?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-orange?logo=streamlit)](https://streamlit.io/)
@@ -38,7 +35,7 @@
 
 1. **Clone the repository and set up the environment**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/JamesDuong7/mood_playlist_api
     cd mood_playlist_api
     python3 -m venv env
     source env/bin/activate
@@ -76,9 +73,7 @@ Generate a randomized playlist based on a user's mood.
 
 **Example:**
 ````
-
 GET /playlist/?user\_input=I%20feel%20energetic\&limit=5
-
 ````
 
 **Response:**
